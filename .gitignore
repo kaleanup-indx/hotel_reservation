@@ -15,7 +15,7 @@
 *.out
 
 # Output of the build file
-complie/*
+compile/*
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
